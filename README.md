@@ -12,7 +12,13 @@ CodePyon adalah aplikasi web sederhana yang memungkinkan pengguna untuk berbagi 
 ## Instalasi
 
 1. Pastikan Anda memiliki Python yang terinstal di sistem Anda. Jika belum, Anda dapat mengunduhnya [di sini](https://www.python.org/downloads/).
-2. Clone repositori ini ke sistem Anda.<pre>git clone https://github.com/amrunkhakim/Codepyon.git</pre>
+2. Clone repositori ini ke sistem Anda
+
+```
+git clone https://github.com/amrunkhakim/Codepyon.git
+
+```
+
 3. Masuk ke direktori proyek dan buat lingkungan virtual:
    ```
    python -m venv venv
